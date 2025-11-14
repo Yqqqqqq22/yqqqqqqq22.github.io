@@ -1,17 +1,12 @@
-
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
-
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: jiaqi_yu04@163.com
+
+Telephone number :18639329779
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+天津医科大学,医学技术学院,医学影像学，2022-2027
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+医学影像学
 
